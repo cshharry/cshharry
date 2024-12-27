@@ -2,7 +2,9 @@
 
 Hi!👋 I'm an aspiring Cloud Engineer and Infrastructure Engineer passionate about designing and managing reliable systems. 🚀
 <br>
-I have a strong interest in server and network technologies, constantly exploring ways to optimize and secure infrastructure systems. 🖥️🌐
+I have a strong interest in server and network technologies,
+<br>
+constantly exploring ways to optimize and secure infrastructure systems. 🖥️🌐
 <br>
 I enjoy staying active by participating in various sports, especially team-based games. ⚽⚾🏀
 
